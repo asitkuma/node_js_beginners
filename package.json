@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "begineer level",
+  "main": "building_a_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asitkuma/node_js_begineers.git"
+  },
+  "author": "asit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asitkuma/node_js_begineers/issues"
+  },
+  "homepage": "https://github.com/asitkuma/node_js_begineers#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

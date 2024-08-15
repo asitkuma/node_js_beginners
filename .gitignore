@@ -1,0 +1,3 @@
+# here basically its recommeded to not insert the node_module into your github,becasue first of all the file size will be lengthier and this not recommended also.
+#those things u dont want to insert into your github then simply write those by using /
+/node_modules

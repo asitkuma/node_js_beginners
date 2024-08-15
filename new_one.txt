@@ -1,0 +1,1 @@
+in javacript there are modules are there one is core module and another one is external module, in core module one is global module and another one is non global module, for example like console  this is gloval module u can directly use it ,but there is a function in js through which u can create a file but that will be non gloval so for that u need to import.
